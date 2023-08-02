@@ -1,2 +1,1 @@
-# prepCourseHenry
-Este es un reprocitorio de prueba de soy Henry
+Este es un proyecto de prueba y clonarlo desde vscode
